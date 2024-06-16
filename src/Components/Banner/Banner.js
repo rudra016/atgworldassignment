@@ -74,7 +74,7 @@ const Banner = () => {
                 <div className="row container m-auto pt-5">
                     <div className="first col-sm-8 col-md-8 col-lg-8">
                         <span className=' engineering'>Computer Engineering</span>
-                        <p className='followar'>18976 Computer Engineers follow this</p>
+                        <p className='followar'>142,675 Computer Engineers follow this</p>
                         </div>
                     <div className="  col-sm-4 col-md-4 col-lg-4"> </div>
                 </div>
